@@ -1,2 +1,2 @@
 # seminario-nginx
-Example and Exercise for nginx seminar at INFN-CNAF
+Examples and exercises for the nginx seminar at INFN-CNAF
