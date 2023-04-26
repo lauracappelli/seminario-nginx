@@ -22,5 +22,4 @@ RUN yum update -y && \
 EXPOSE 80 8080
 STOPSIGNAL SIGQUIT
 
-# docker run -it -p 80:80 my-nginx bash
-# docker run -it -p 80:80 -v $PWD/examples:/tmp my-nginx bash
+# docker run -it -p 80:80 -v $PWD:/tmp nginx-seminar bash
